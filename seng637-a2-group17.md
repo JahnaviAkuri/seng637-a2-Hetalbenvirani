@@ -4,10 +4,10 @@
 
 | Group \#: 17 |     |
 | -------------- | --- |
-| Student Names: |     |
+| Jay Kanabar   |     |
 | Andrew Bright |     |
-|                |     |
-|                |     |
+| Jahnavi Akuri   |     |
+| Hetalben Virani |     |
 
 # 1 Introduction
 
